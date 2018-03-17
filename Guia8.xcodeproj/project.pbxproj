@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		8435EF42205DA6BB00BDB33C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8435EF41205DA6BB00BDB33C /* main.swift */; };
+		8435EF49205DA6F800BDB33C /* Persona.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8435EF48205DA6F800BDB33C /* Persona.swift */; };
+		8435EF4D205DA8BA00BDB33C /* Alumno.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8435EF4C205DA8BA00BDB33C /* Alumno.swift */; };
+		8435EF4F205DAB2F00BDB33C /* Docente.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8435EF4E205DAB2F00BDB33C /* Docente.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		8435EF3E205DA6BA00BDB33C /* Guia8 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Guia8; sourceTree = BUILT_PRODUCTS_DIR; };
 		8435EF41205DA6BB00BDB33C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		8435EF48205DA6F800BDB33C /* Persona.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persona.swift; sourceTree = "<group>"; };
+		8435EF4C205DA8BA00BDB33C /* Alumno.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alumno.swift; sourceTree = "<group>"; };
+		8435EF4E205DAB2F00BDB33C /* Docente.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Docente.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				8435EF41205DA6BB00BDB33C /* main.swift */,
+				8435EF48205DA6F800BDB33C /* Persona.swift */,
+				8435EF4C205DA8BA00BDB33C /* Alumno.swift */,
+				8435EF4E205DAB2F00BDB33C /* Docente.swift */,
 			);
 			path = Guia8;
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8435EF49205DA6F800BDB33C /* Persona.swift in Sources */,
+				8435EF4D205DA8BA00BDB33C /* Alumno.swift in Sources */,
+				8435EF4F205DAB2F00BDB33C /* Docente.swift in Sources */,
 				8435EF42205DA6BB00BDB33C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
